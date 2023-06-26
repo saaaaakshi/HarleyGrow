@@ -30,3 +30,17 @@ span{
     color: #077415;
     
 }
+
+.special-btn{
+    background-color: #077415 !important;
+    color:white;
+}
+
+.set-bg-green{
+    background-color: #077415 !important;
+
+}
+.set-text-green{
+    color: #077415 !important;
+
+}
